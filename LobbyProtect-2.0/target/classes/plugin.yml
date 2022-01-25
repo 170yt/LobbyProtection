@@ -1,0 +1,9 @@
+name: LobbyProtect
+version: '2.0'
+main: lobbyprotect.Main
+api-version: 1.18
+commands:
+  build:
+    permission: build.buildCommand
+  dmg:
+    permission: build.dmgCommand
